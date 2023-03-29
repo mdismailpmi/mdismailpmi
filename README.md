@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdismailpmi
-- 👀 I’m interested in JS, ReactJS, NodeJs, PHP, Laravel 
+- 👀 I’m interested in JS, ReactJS, NodeJs, PHP, Laravel, Java 
 - 🌱 I’m currently learning FullStack Js.
-- 💞️ I’m looking to collaborate on any Js projects.
+- 💞️ I’m looking to collaborate on any Js / Java / NodeJs / PHP / ReactJs  projects.
 - 📫 How to reach me : mdismailpmi@gmail.com
 
 <!---
